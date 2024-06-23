@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Custom Ring Camera using a RaspberryPi**
 
-- 🌱 I’m currently learning **Go and Swift**
+- 🌱 I’m currently learning **Go**
 
 # About Me
 As a rising Junior at Loyola University Chicago pivoting into the tech industry, my journey into computer science began just a year ago. This transition was motivated by a desire to find a career path that not only excited me but also promised long-term satisfaction. Leaving behind a major that no longer aligned with my aspirations, I discovered a fervent passion for coding through Harvard's introductory programming course. It was love at first line of code.
