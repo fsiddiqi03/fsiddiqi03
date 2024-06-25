@@ -17,7 +17,7 @@ Currently, I am delving deep into the world of AWS and other cloud services, dra
 
 
 # Languages 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,go,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,go,js,ts)](https://skillicons.dev)
 
 
 # Tech/Tools
