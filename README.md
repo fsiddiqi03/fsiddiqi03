@@ -24,7 +24,7 @@ Currently, I am delving deep into the world of AWS and other cloud services, dra
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,terraform,mysql,gcp,git,)](https://skillicons.dev)
 
 # Libraries/Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,dotnet,express,nodejs,tensorflow,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,dotnet,express,nodejs,tensorflow,opencv,sklearn)](https://skillicons.dev)
 
 
 ###
