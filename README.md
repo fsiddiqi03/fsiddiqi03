@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Custom Ring Camera using a RaspberryPi**
+- 🔭 I’m currently working on **A Cat Tracker using a Raspberrypi and Pi camera**
 
 - 🌱 I’m currently learning **Go**
 
