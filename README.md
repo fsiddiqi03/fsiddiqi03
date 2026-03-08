@@ -6,14 +6,10 @@
 
 - 🔭 I’m currently working on **A Cat Tracker using a Raspberrypi and Pi camera**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Docker**
 
 # About Me
-As a rising Junior at Loyola University Chicago pivoting into the tech industry, my journey into computer science began just a year ago. This transition was motivated by a desire to find a career path that not only excited me but also promised long-term satisfaction. Leaving behind a major that no longer aligned with my aspirations, I discovered a fervent passion for coding through Harvard's introductory programming course. It was love at first line of code.
-
-My journey into programming wasn't merely academic; it was a pursuit of joy. I found immense satisfaction in building projects—not just for the sake of learning new languages and skills, but because I reveled in creating something meaningful, particularly applications that others found useful. This hands-on approach has been the cornerstone of my learning journey, pushing me to explore and innovate continuously.
-
-Currently, I am delving deep into the world of AWS and other cloud services, drawn by the vast potential of cloud computing to transform technology and society. My exploration is not just about acquiring new skills; it's about paving a path where my passion for problem-solving and innovation can grow. Hence, I am actively seeking opportunities specifically in cloud engineering or backend engineering. These fields resonate with me the most, offering the perfect playground for my interests and talents.
+CS student at Loyola University Chicago graduating May 2026. Passionate about cloud infrastructure and DevOps I love building CI/CD pipelines, automating workflows, and tinkering with AWS. Currently studying for AWS Certified Solutions Architect - Associate. I have hands-on experience in Terraform, Docker, and serverless architectures. Always building something, whether it's a Raspberry Pi security camera or a Discord bot managing EC2 instances.
 
 
 # Languages 
