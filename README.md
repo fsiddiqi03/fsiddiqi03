@@ -4,12 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **A Cat Tracker using a Raspberrypi and Pi camera**
-
-- 🌱 I’m currently learning **Docker**
 
 # About Me
-CS student at Loyola University Chicago graduating May 2026. Passionate about cloud infrastructure and DevOps I love building CI/CD pipelines, automating workflows, and tinkering with AWS. Currently studying for AWS Certified Solutions Architect - Associate. I have hands-on experience in Terraform, Docker, and serverless architectures. Always building something, whether it's a Raspberry Pi security camera or a Discord bot managing EC2 instances.
+Full Stack SWE @ RRD. BS in Computer Science from Loyola University Chicago
 
 
 # Languages 
